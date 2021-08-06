@@ -1,4 +1,4 @@
-class sort:
+class sorting:
     def __init__(self) -> None:
         pass
     
@@ -26,5 +26,5 @@ class sort:
         
 
 # object instantiating
-srt = sort()
+srt = sorting()
 srt.calling()                  
