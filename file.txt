@@ -1,0 +1,842 @@
+HP1020UG.pdf ->-> /Program Files\HP\HP LaserJet 1020\manualsHP1020UG.pdf
+PDFSigQFormalRep.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\ReaderPDFSigQFormalRep.pdf
+AdobeID.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\IDTemplates\ENUAdobeID.pdf
+DefaultID.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\IDTemplates\ENUDefaultID.pdf
+Words.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\plug_ins\Annotations\StampsWords.pdf
+Dynamic.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\plug_ins\Annotations\Stamps\ENUDynamic.pdf
+SignHere.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\plug_ins\Annotations\Stamps\ENUSignHere.pdf
+StandardBusiness.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\Reader\plug_ins\Annotations\Stamps\ENUStandardBusiness.pdf
+ENUtxt.pdf ->-> /Program Files (x86)\Adobe\Reader 8.0\ResourceENUtxt.pdf
+ASIO4ALL v2 Instruction Manual.pdf ->-> /Program Files (x86)\ASIO4ALL v2ASIO4ALL v2 Instruction Manual.pdf
+Bangla Typing with Avro Mouse.pdf ->-> /Program Files (x86)\Avro KeyboardBangla Typing with Avro Mouse.pdf
+Bangla Typing with Avro Phonetic.pdf ->-> /Program Files (x86)\Avro KeyboardBangla Typing with Avro Phonetic.pdf
+Bangla Typing with Fixed Keyboard Layouts.pdf ->-> /Program Files (x86)\Avro KeyboardBangla Typing with Fixed Keyboard Layouts.pdf
+Before You Start.pdf ->-> /Program Files (x86)\Avro KeyboardBefore You Start.pdf
+Customizing Avro Keyboard.pdf ->-> /Program Files (x86)\Avro KeyboardCustomizing Avro Keyboard.pdf
+Editing Keyboard Layout.pdf ->-> /Program Files (x86)\Avro KeyboardEditing Keyboard Layout.pdf
+Overview.pdf ->-> /Program Files (x86)\Avro KeyboardOverview.pdf
+test.pdf ->-> /Program Files (x86)\IndiaLawLibrary\debugtest.pdf
+Untitled document.pdf ->-> /Users\USERUntitled document.pdf
+back.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesback.pdf
+filesave.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesfilesave.pdf
+forward.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesforward.pdf
+hand.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imageshand.pdf
+help.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imageshelp.pdf
+home.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imageshome.pdf
+matplotlib.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesmatplotlib.pdf
+move.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesmove.pdf
+qt4_editor_options.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagesqt4_editor_options.pdf
+subplots.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imagessubplots.pdf
+zoom_to_rect.pdf ->-> /Users\USER\AppData\Local\Programs\Python\Python37\Lib\site-packages\matplotlib\mpl-data\imageszoom_to_rect.pdf
+B.pdf ->-> /Users\USER\Desktop\02-08-2018B.pdf
+C.pdf ->-> /Users\USER\Desktop\02-08-2018C.pdf
+EAadhaar_xxxxxxxx9021_17112018215248(PASS NILA1999).pdf ->-> /Users\USER\Desktop\02-08-2018EAadhaar_xxxxxxxx9021_17112018215248(PASS NILA1999).pdf
+EAadhaar_xxxxxxxx9021_17112018215248_906563.pdf ->-> /Users\USER\Desktop\02-08-2018EAadhaar_xxxxxxxx9021_17112018215248_906563.pdf
+Form 2 LL nil.pdf ->-> /Users\USER\Desktop\02-08-2018Form 2 LL nil.pdf
+Form 4 DL nil.pdf ->-> /Users\USER\Desktop\02-08-2018Form 4 DL nil.pdf
+The_Family_Courts_Act_1984.pdf ->-> /Users\USER\Desktop\02-08-2018The_Family_Courts_Act_1984.pdf
+VOTER LIST 2018.pdf ->-> /Users\USER\Desktop\02-08-2018VOTER LIST 2018.pdf
+DT20206723044_Application (1).pdf ->-> /Users\USER\Desktop\02-08-2018\nil documentsDT20206723044_Application (1).pdf
+form 1a nil.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documentsform 1a nil.pdf
+Learner LMV Nil.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documentsLearner LMV Nil.pdf
+Part III marksheet(net copy).pdf ->-> /Users\USER\Desktop\02-08-2018\nil documentsPart III marksheet(net copy).pdf
+Part III original marksheet.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documentsPart III original marksheet.pdf
+DraftPrint.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\jobs applyDraftPrint.pdf
+1413704295_statement.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\kotak statements1413704295_statement.pdf
+16140609422966h93XnMR0OKEIxBi.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\kotak statements16140609422966h93XnMR0OKEIxBi.pdf
+Account Statement.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\kotak statementsAccount Statement.pdf
+XXXXXX041_Sep-20.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\kotak statementsXXXXXX041_Sep-20.pdf
+NBUPG20-53446 Application Form m.sc computer sc.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\nbu formNBUPG20-53446 Application Form m.sc computer sc.pdf
+Nilakash Marksheet.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\sit registrationNilakash Marksheet.pdf
+1729993_877257_LoanApplicationForm.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\sit student loan1729993_877257_LoanApplicationForm.pdf
+student loan itr.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\sit student loanstudent loan itr.pdf
+student loan itr_compressed.pdf ->-> /Users\USER\Desktop\02-08-2018\nil documents\sit student loanstudent loan itr_compressed.pdf
+Back Up Your Files to the Cloud.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021Back Up Your Files to the Cloud.pdf
+SEC 32A.Licence to reproduce and publish works for.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Copyright Act, 1957SEC 32A.Licence to reproduce and publish works for.pdf
+Schedule 1.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Geographical Indications of Goods (Registration and Protection),Schedule 1.pdf
+Schedule 2.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Geographical Indications of Goods (Registration and Protection),Schedule 2.pdf
+Schedule 3.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Geographical Indications of Goods (Registration and Protection),Schedule 3.pdf
+Schedule 4.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Geographical Indications of Goods (Registration and Protection),Schedule 4.pdf
+Schedule 5-SCALE OF COSTS ALLOWABLE IN RULE 91 PROCEEDINGS B.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Geographical Indications of Goods (Registration and Protection),Schedule 5-SCALE OF COSTS ALLOWABLE IN RULE 91 PROCEEDINGS B.pdf
+SCHEDULE -The Schedule Amendments To The Indian.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Judi Exam,10\Intellec\Patents Act, 1970SCHEDULE -The Schedule Amendments To The Indian.pdf
+Back Up Your Files to the Cloud.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\judicial Exam\intellectual propertyBack Up Your Files to the Cloud.pdf
+SEC 32A.Licence to reproduce and publish works for.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\judicial Exam\intellectual property\Copyright Act, 1957SEC 32A.Licence to reproduce and publish works for.pdf
+SCHEDULE -The Schedule Amendments To The Indian.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\judicial Exam\intellectual property\Patents Act, 1970SCHEDULE -The Schedule Amendments To The Indian.pdf
+03-254-2008-19122008.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Other03-254-2008-19122008.pdf
+adv_dhjs_2009.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\Otheradv_dhjs_2009.pdf
+Lease Deed.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\OtherLease Deed.pdf
+Mp HJ.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\OtherMp HJ.pdf
+SPL51_2010.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\9531562938(07.07.12)\New Folder 07.07.12\OtherSPL51_2010.pdf
+DownloadSanDiskSecureAccess_Mac.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\SanDiskSecureAccessDownloadSanDiskSecureAccess_Mac.pdf
+SanDisk_SecureAccess_QSG.pdf ->-> /Users\USER\Desktop\pendrive backup 24-01-2021\SanDiskSecureAccessSanDisk_SecureAccess_QSG.pdf
+Assignment 1.pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABAssignment 1.pdf
+Assignment 2 .pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABAssignment 2 .pdf
+Assignment 3.pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABAssignment 3.pdf
+Assignment 4 Nilakash Chatterjee.pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABAssignment 4 Nilakash Chatterjee.pdf
+Assignment 6.pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABAssignment 6.pdf
+pattern2.pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABpattern2.pdf
+Python Lab test 1 (Nilakash Chatterjee).pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABPython Lab test 1 (Nilakash Chatterjee).pdf
+Python lab Test 2(Nilakash Chatterjee).pdf ->-> /Users\USER\Desktop\PROGRAM CODES\MCA PYTHON LABPython lab Test 2(Nilakash Chatterjee).pdf
+NBU-Examination Management.pdf ->-> /Users\USER\Desktop\ProgrammingNBU-Examination Management.pdf
+2.pdf ->-> /Users\USER\Documents2.pdf
+Ajit Da Deed 2408-2020.pdf ->-> /Users\USER\DocumentsAjit Da Deed 2408-2020.pdf
+bera.pdf ->-> /Users\USER\Documentsbera.pdf
+cHEQUE SBI.pdf ->-> /Users\USER\DocumentscHEQUE SBI.pdf
+CMV.pdf ->-> /Users\USER\DocumentsCMV.pdf
+Cyber page 1.pdf ->-> /Users\USER\DocumentsCyber page 1.pdf
+Cyber Page 2.pdf ->-> /Users\USER\DocumentsCyber Page 2.pdf
+EAadhaar Rudra_2189690281162020170203190442_10022017150156_469996.pdf ->-> /Users\USER\DocumentsEAadhaar Rudra_2189690281162020170203190442_10022017150156_469996.pdf
+IMG_20180831_0001.pdf ->-> /Users\USER\DocumentsIMG_20180831_0001.pdf
+IMG_20210209_0001.pdf ->-> /Users\USER\DocumentsIMG_20210209_0001.pdf
+IMG_20210314_0001.pdf ->-> /Users\USER\DocumentsIMG_20210314_0001.pdf
+IMG_20210314_0002.pdf ->-> /Users\USER\DocumentsIMG_20210314_0002.pdf
+IMG_20210526_0001.pdf ->-> /Users\USER\DocumentsIMG_20210526_0001.pdf
+LL.pdf ->-> /Users\USER\DocumentsLL.pdf
+LOE 1.pdf ->-> /Users\USER\DocumentsLOE 1.pdf
+LOE2.pdf ->-> /Users\USER\DocumentsLOE2.pdf
+LOE3.pdf ->-> /Users\USER\DocumentsLOE3.pdf
+mainak application.pdf ->-> /Users\USER\Documentsmainak application.pdf
+Prabir Paul.pdf ->-> /Users\USER\DocumentsPrabir Paul.pdf
+Samarjit Kabri Udaan.pdf ->-> /Users\USER\DocumentsSamarjit Kabri Udaan.pdf
+IMG_20181224_0001.pdf ->-> /Users\USER\Documents\Amit GargIMG_20181224_0001.pdf
+IMG_20181224_0002.pdf ->-> /Users\USER\Documents\Amit GargIMG_20181224_0002.pdf
+IMG_20181224_0003.pdf ->-> /Users\USER\Documents\Amit GargIMG_20181224_0003.pdf
+IMG_20181224_0004.pdf ->-> /Users\USER\Documents\Amit GargIMG_20181224_0004.pdf
+IMG_20181224_0005.pdf ->-> /Users\USER\Documents\Amit GargIMG_20181224_0005.pdf
+AADHAR Nitin.pdf ->-> /Users\USER\Documents\PARTNERSHIPAADHAR Nitin.pdf
+adar Ajay .pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Ajay .pdf
+adar anajni.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar anajni.pdf
+adar anajni_compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar anajni_compressed.pdf
+adar Bankat.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Bankat.pdf
+adar chirag.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar chirag.pdf
+adar chirag_compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar chirag_compressed.pdf
+adar Dinesh.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Dinesh.pdf
+adar Gagan.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Gagan.pdf
+adar kishan.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar kishan.pdf
+adar Pawan.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Pawan.pdf
+adar Ratan.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar Ratan.pdf
+adar sanjay.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar sanjay.pdf
+adar shyam.pdf ->-> /Users\USER\Documents\PARTNERSHIPadar shyam.pdf
+IMG Holding No .pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG Holding No .pdf
+IMG Holding No _compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG Holding No _compressed.pdf
+IMG NOC.pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG NOC.pdf
+IMG P F Pan .pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG P F Pan .pdf
+IMG Trade licence.pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG Trade licence.pdf
+IMG Trade licence_compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPIMG Trade licence_compressed.pdf
+Pan ajay kumar.pdf ->-> /Users\USER\Documents\PARTNERSHIPPan ajay kumar.pdf
+pan Anjani kumar.pdf ->-> /Users\USER\Documents\PARTNERSHIPpan Anjani kumar.pdf
+pan Anjani kumar_compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPpan Anjani kumar_compressed.pdf
+Pan Bankt lal.pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Bankt lal.pdf
+Pan Chirag .pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Chirag .pdf
+Pan Dinesh .pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Dinesh .pdf
+Pan Gagan .pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Gagan .pdf
+Pan Kishan Agarwal.pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Kishan Agarwal.pdf
+Pan Ratan .pdf ->-> /Users\USER\Documents\PARTNERSHIPPan Ratan .pdf
+Pan sanjay.pdf ->-> /Users\USER\Documents\PARTNERSHIPPan sanjay.pdf
+Pan shyam sundar.pdf ->-> /Users\USER\Documents\PARTNERSHIPPan shyam sundar.pdf
+Partner Deed (1).pdf ->-> /Users\USER\Documents\PARTNERSHIPPartner Deed (1).pdf
+Partner Deed.pdf ->-> /Users\USER\Documents\PARTNERSHIPPartner Deed.pdf
+Partner Deed_compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPPartner Deed_compressed.pdf
+Pawan.pdf ->-> /Users\USER\Documents\PARTNERSHIPPawan.pdf
+profession of firm .pdf ->-> /Users\USER\Documents\PARTNERSHIPprofession of firm .pdf
+profession of firm _compressed.pdf ->-> /Users\USER\Documents\PARTNERSHIPprofession of firm _compressed.pdf
+Scan signa of appli.pdf ->-> /Users\USER\Documents\PARTNERSHIPScan signa of appli.pdf
+Letter_of_Disclaimer.pdf ->-> /Users\USER\Documents\sbiLetter_of_Disclaimer.pdf
+Letter_of_Indemnity.pdf ->-> /Users\USER\Documents\sbiLetter_of_Indemnity.pdf
+Revised_Claim_Format.pdf ->-> /Users\USER\Documents\sbiRevised_Claim_Format.pdf
+Ananya _20180720_0001.pdf ->-> /Users\USER\Documents\ScanerAnanya _20180720_0001.pdf
+Bill 1_20180821_0001.pdf ->-> /Users\USER\Documents\ScanerBill 1_20180821_0001.pdf
+Bill_20180820_0001.pdf ->-> /Users\USER\Documents\ScanerBill_20180820_0001.pdf
+Deed Subhash-ilovepdf-compressed (1).pdf ->-> /Users\USER\Documents\ScanerDeed Subhash-ilovepdf-compressed (1).pdf
+doc_20180215_0001.pdf ->-> /Users\USER\Documents\Scanerdoc_20180215_0001.pdf
+IMG_20180210_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20180210_0002.pdf
+IMG_20180217_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20180217_0001.pdf
+IMG_20180519_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20180519_0001.pdf
+IMG_20180831_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20180831_0001.pdf
+IMG_20180831_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20180831_0002.pdf
+IMG_20180831_0003.pdf ->-> /Users\USER\Documents\ScanerIMG_20180831_0003.pdf
+IMG_20180912_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20180912_0002.pdf
+IMG_20180913_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20180913_0001.pdf
+IMG_20181219_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20181219_0002.pdf
+IMG_20181230_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20181230_0001.pdf
+IMG_20181230_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20181230_0002.pdf
+IMG_20190402_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20190402_0002.pdf
+IMG_20190403_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20190403_0001.pdf
+IMG_20190902_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20190902_0001.pdf
+IMG_20190902_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20190902_0002.pdf
+IMG_20190902_0003.pdf ->-> /Users\USER\Documents\ScanerIMG_20190902_0003.pdf
+IMG_20190904_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20190904_0001.pdf
+IMG_20190925_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20190925_0001.pdf
+IMG_20190925_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20190925_0002.pdf
+IMG_20191031_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20191031_0001.pdf
+IMG_20191031_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20191031_0002.pdf
+IMG_20191201_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20191201_0002.pdf
+IMG_20191201_0003.pdf ->-> /Users\USER\Documents\ScanerIMG_20191201_0003.pdf
+IMG_20200108_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20200108_0001.pdf
+IMG_20200108_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20200108_0002.pdf
+IMG_20200108_0003.pdf ->-> /Users\USER\Documents\ScanerIMG_20200108_0003.pdf
+IMG_20200108_0004.pdf ->-> /Users\USER\Documents\ScanerIMG_20200108_0004.pdf
+IMG_20200709_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20200709_0001.pdf
+IMG_20200715_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20200715_0001.pdf
+IMG_20200715_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20200715_0002.pdf
+IMG_20200715_0003.pdf ->-> /Users\USER\Documents\ScanerIMG_20200715_0003.pdf
+IMG_20200715_0004.pdf ->-> /Users\USER\Documents\ScanerIMG_20200715_0004.pdf
+IMG_20200715_0005.pdf ->-> /Users\USER\Documents\ScanerIMG_20200715_0005.pdf
+IMG_20201008_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20201008_0001.pdf
+IMG_20201011_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20201011_0001.pdf
+IMG_20210115_0001.pdf ->-> /Users\USER\Documents\ScanerIMG_20210115_0001.pdf
+IMG_20210115_0002.pdf ->-> /Users\USER\Documents\ScanerIMG_20210115_0002.pdf
+IMG_Aadhaar PP.pdf ->-> /Users\USER\Documents\ScanerIMG_Aadhaar PP.pdf
+IMG_Aadhar PC.pdf ->-> /Users\USER\Documents\ScanerIMG_Aadhar PC.pdf
+IMG_BSc Certificate.pdf ->-> /Users\USER\Documents\ScanerIMG_BSc Certificate.pdf
+IMG_Nidhi.pdf ->-> /Users\USER\Documents\ScanerIMG_Nidhi.pdf
+IMG_Tapan Nandi Chow.pdf ->-> /Users\USER\Documents\ScanerIMG_Tapan Nandi Chow.pdf
+IMG_Voter ID PC.pdf ->-> /Users\USER\Documents\ScanerIMG_Voter ID PC.pdf
+IMG_Voter ID PP.pdf ->-> /Users\USER\Documents\ScanerIMG_Voter ID PP.pdf
+Leo TNT_20180718_0001.pdf ->-> /Users\USER\Documents\ScanerLeo TNT_20180718_0001.pdf
+nil aadhar printable.pdf ->-> /Users\USER\Documents\Scanernil aadhar printable.pdf
+NIL AADHAR.pdf ->-> /Users\USER\Documents\ScanerNIL AADHAR.pdf
+nil clg id card.pdf ->-> /Users\USER\Documents\Scanernil clg id card.pdf
+nil clg registration.pdf ->-> /Users\USER\Documents\Scanernil clg registration.pdf
+Nil scans_20180307_0001.pdf ->-> /Users\USER\Documents\ScanerNil scans_20180307_0001.pdf
+Nil scans_20180517_0001.pdf ->-> /Users\USER\Documents\ScanerNil scans_20180517_0001.pdf
+Pan PP.pdf ->-> /Users\USER\Documents\ScanerPan PP.pdf
+pan_20180724_0001.pdf ->-> /Users\USER\Documents\Scanerpan_20180724_0001.pdf
+R Prasad scans_20180515_0001.pdf ->-> /Users\USER\Documents\ScanerR Prasad scans_20180515_0001.pdf
+Ritesh_20180712_0001.pdf ->-> /Users\USER\Documents\ScanerRitesh_20180712_0001.pdf
+Shubha.pdf ->-> /Users\USER\Documents\ScanerShubha.pdf
+subha_20180611_0001.pdf ->-> /Users\USER\Documents\Scanersubha_20180611_0001.pdf
+Voter id Phalguni.pdf ->-> /Users\USER\Documents\ScanerVoter id Phalguni.pdf
+Declaration.pdf ->-> /Users\USER\Documents\Scaner\BabluDeclaration.pdf
+IMG_20180209 Death Cer.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_20180209 Death Cer.pdf
+IMG_20180209 Khatian.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_20180209 Khatian.pdf
+IMG_20180209 Rent recipt.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_20180209 Rent recipt.pdf
+IMG_20180209_i Card.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_20180209_i Card.pdf
+IMG_Bablu-ilovepdf-compressed.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_Bablu-ilovepdf-compressed.pdf
+IMG_Bablu.pdf ->-> /Users\USER\Documents\Scaner\BabluIMG_Bablu.pdf
+(www.entrance-exam.net)-ca2005.pdf ->-> /Users\USER\Downloads(www.entrance-exam.net)-ca2005.pdf
+(www.entrance-exam.net)-ISRO.pdf ->-> /Users\USER\Downloads(www.entrance-exam.net)-ISRO.pdf
+1.pdf ->-> /Users\USER\Downloads1.pdf
+1556355303694oijwVSAril1I2cQs.pdf ->-> /Users\USER\Downloads1556355303694oijwVSAril1I2cQs.pdf
+1556355388398qdmcPdXJplGkFFVs.pdf ->-> /Users\USER\Downloads1556355388398qdmcPdXJplGkFFVs.pdf
+158019575-20200417.pdf ->-> /Users\USER\Downloads158019575-20200417.pdf
+1600857946262qgbey21ivodsbHKC.pdf ->-> /Users\USER\Downloads1600857946262qgbey21ivodsbHKC.pdf
+1601696436867ZYb6l99865irj389.pdf ->-> /Users\USER\Downloads1601696436867ZYb6l99865irj389.pdf
+1601990744393Nn3Xt6yMRR7u2oHA.pdf ->-> /Users\USER\Downloads1601990744393Nn3Xt6yMRR7u2oHA.pdf
+16042142282367FvFtiDmvpKrBGfo.pdf ->-> /Users\USER\Downloads16042142282367FvFtiDmvpKrBGfo.pdf
+1604921267842UqRkk6CYfgiweLzB.pdf ->-> /Users\USER\Downloads1604921267842UqRkk6CYfgiweLzB.pdf
+16100346430879RQHiEualxfyDBpr.pdf ->-> /Users\USER\Downloads16100346430879RQHiEualxfyDBpr.pdf
+1971.pdf ->-> /Users\USER\Downloads1971.pdf
+2.pdf ->-> /Users\USER\Downloads2.pdf
+201807251017.pdf ->-> /Users\USER\Downloads201807251017.pdf
+3156449718.pdf ->-> /Users\USER\Downloads3156449718.pdf
+5-EVS-NCERT-Chapter-11.pdf ->-> /Users\USER\Downloads5-EVS-NCERT-Chapter-11.pdf
+6.pdf ->-> /Users\USER\Downloads6.pdf
+8benefitsofcoding-180425151211.pdf ->-> /Users\USER\Downloads8benefitsofcoding-180425151211.pdf
+a0190259.pdf ->-> /Users\USER\Downloadsa0190259.pdf
+AADHAR ASHIWANI NEW ASHI1974.pdf ->-> /Users\USER\DownloadsAADHAR ASHIWANI NEW ASHI1974.pdf
+Aadhar PC.pdf ->-> /Users\USER\DownloadsAadhar PC.pdf
+aadhar.pdf ->-> /Users\USER\Downloadsaadhar.pdf
+aamar-hiyar-majhe-lukiye.pdf ->-> /Users\USER\Downloadsaamar-hiyar-majhe-lukiye.pdf
+acc-brochure-glanza.pdf ->-> /Users\USER\Downloadsacc-brochure-glanza.pdf
+adi ppr.pdf ->-> /Users\USER\Downloadsadi ppr.pdf
+admission_english.pdf ->-> /Users\USER\Downloadsadmission_english.pdf
+Advt_BSJS_2019.pdf ->-> /Users\USER\DownloadsAdvt_BSJS_2019.pdf
+AirWay-Bill-term-and-conditons.pdf ->-> /Users\USER\DownloadsAirWay-Bill-term-and-conditons.pdf
+AmazonGiftReceipt.pdf ->-> /Users\USER\DownloadsAmazonGiftReceipt.pdf
+Annual Exam Sanskrit.pdf ->-> /Users\USER\DownloadsAnnual Exam Sanskrit.pdf
+Assignment 6.pdf ->-> /Users\USER\DownloadsAssignment 6.pdf
+bond for mbbs bds.pdf ->-> /Users\USER\Downloadsbond for mbbs bds.pdf
+Book-2-Lakshmi-Puja.pdf ->-> /Users\USER\DownloadsBook-2-Lakshmi-Puja.pdf
+Brochure-Ford-Ecosport-2019.pdf ->-> /Users\USER\DownloadsBrochure-Ford-Ecosport-2019.pdf
+Brochure-Ford-Ecosport-2020-Mobile.pdf ->-> /Users\USER\DownloadsBrochure-Ford-Ecosport-2020-Mobile.pdf
+Brochure-Freestyle-Web.pdf ->-> /Users\USER\DownloadsBrochure-Freestyle-Web.pdf
+CandidateHallTicket.pdf ->-> /Users\USER\DownloadsCandidateHallTicket.pdf
+causelist12020-03-03.pdf ->-> /Users\USER\Downloadscauselist12020-03-03.pdf
+certificate (1).pdf ->-> /Users\USER\Downloadscertificate (1).pdf
+certificate (2).pdf ->-> /Users\USER\Downloadscertificate (2).pdf
+certificate (3).pdf ->-> /Users\USER\Downloadscertificate (3).pdf
+certificate.pdf ->-> /Users\USER\Downloadscertificate.pdf
+Challan (1).pdf ->-> /Users\USER\DownloadsChallan (1).pdf
+Challan (10).pdf ->-> /Users\USER\DownloadsChallan (10).pdf
+Challan (11).pdf ->-> /Users\USER\DownloadsChallan (11).pdf
+Challan (12).pdf ->-> /Users\USER\DownloadsChallan (12).pdf
+Challan (13).pdf ->-> /Users\USER\DownloadsChallan (13).pdf
+Challan (14).pdf ->-> /Users\USER\DownloadsChallan (14).pdf
+Challan (15).pdf ->-> /Users\USER\DownloadsChallan (15).pdf
+Challan (16).pdf ->-> /Users\USER\DownloadsChallan (16).pdf
+Challan (17).pdf ->-> /Users\USER\DownloadsChallan (17).pdf
+Challan (18).pdf ->-> /Users\USER\DownloadsChallan (18).pdf
+Challan (19).pdf ->-> /Users\USER\DownloadsChallan (19).pdf
+Challan (2).pdf ->-> /Users\USER\DownloadsChallan (2).pdf
+Challan (20).pdf ->-> /Users\USER\DownloadsChallan (20).pdf
+Challan (21).pdf ->-> /Users\USER\DownloadsChallan (21).pdf
+Challan (22).pdf ->-> /Users\USER\DownloadsChallan (22).pdf
+Challan (23).pdf ->-> /Users\USER\DownloadsChallan (23).pdf
+Challan (24).pdf ->-> /Users\USER\DownloadsChallan (24).pdf
+Challan (25).pdf ->-> /Users\USER\DownloadsChallan (25).pdf
+Challan (26).pdf ->-> /Users\USER\DownloadsChallan (26).pdf
+Challan (27).pdf ->-> /Users\USER\DownloadsChallan (27).pdf
+Challan (28).pdf ->-> /Users\USER\DownloadsChallan (28).pdf
+Challan (29).pdf ->-> /Users\USER\DownloadsChallan (29).pdf
+Challan (3).pdf ->-> /Users\USER\DownloadsChallan (3).pdf
+Challan (30).pdf ->-> /Users\USER\DownloadsChallan (30).pdf
+Challan (31).pdf ->-> /Users\USER\DownloadsChallan (31).pdf
+Challan (32).pdf ->-> /Users\USER\DownloadsChallan (32).pdf
+Challan (33).pdf ->-> /Users\USER\DownloadsChallan (33).pdf
+Challan (34).pdf ->-> /Users\USER\DownloadsChallan (34).pdf
+Challan (35).pdf ->-> /Users\USER\DownloadsChallan (35).pdf
+Challan (36).pdf ->-> /Users\USER\DownloadsChallan (36).pdf
+Challan (37).pdf ->-> /Users\USER\DownloadsChallan (37).pdf
+Challan (38).pdf ->-> /Users\USER\DownloadsChallan (38).pdf
+Challan (39).pdf ->-> /Users\USER\DownloadsChallan (39).pdf
+Challan (4).pdf ->-> /Users\USER\DownloadsChallan (4).pdf
+Challan (40).pdf ->-> /Users\USER\DownloadsChallan (40).pdf
+Challan (41).pdf ->-> /Users\USER\DownloadsChallan (41).pdf
+Challan (42).pdf ->-> /Users\USER\DownloadsChallan (42).pdf
+Challan (43).pdf ->-> /Users\USER\DownloadsChallan (43).pdf
+Challan (44).pdf ->-> /Users\USER\DownloadsChallan (44).pdf
+Challan (45).pdf ->-> /Users\USER\DownloadsChallan (45).pdf
+Challan (46).pdf ->-> /Users\USER\DownloadsChallan (46).pdf
+Challan (47).pdf ->-> /Users\USER\DownloadsChallan (47).pdf
+Challan (48).pdf ->-> /Users\USER\DownloadsChallan (48).pdf
+Challan (49).pdf ->-> /Users\USER\DownloadsChallan (49).pdf
+Challan (5).pdf ->-> /Users\USER\DownloadsChallan (5).pdf
+Challan (50).pdf ->-> /Users\USER\DownloadsChallan (50).pdf
+Challan (51).pdf ->-> /Users\USER\DownloadsChallan (51).pdf
+Challan (52).pdf ->-> /Users\USER\DownloadsChallan (52).pdf
+Challan (53).pdf ->-> /Users\USER\DownloadsChallan (53).pdf
+Challan (54).pdf ->-> /Users\USER\DownloadsChallan (54).pdf
+Challan (55).pdf ->-> /Users\USER\DownloadsChallan (55).pdf
+Challan (56).pdf ->-> /Users\USER\DownloadsChallan (56).pdf
+Challan (57).pdf ->-> /Users\USER\DownloadsChallan (57).pdf
+Challan (58).pdf ->-> /Users\USER\DownloadsChallan (58).pdf
+Challan (59).pdf ->-> /Users\USER\DownloadsChallan (59).pdf
+Challan (6).pdf ->-> /Users\USER\DownloadsChallan (6).pdf
+Challan (7).pdf ->-> /Users\USER\DownloadsChallan (7).pdf
+Challan (8).pdf ->-> /Users\USER\DownloadsChallan (8).pdf
+Challan (9).pdf ->-> /Users\USER\DownloadsChallan (9).pdf
+Challan.pdf ->-> /Users\USER\DownloadsChallan.pdf
+Chapter1_22-80p.pdf ->-> /Users\USER\DownloadsChapter1_22-80p.pdf
+Chapter2_81-160p.pdf ->-> /Users\USER\DownloadsChapter2_81-160p.pdf
+charano-dhorite-diyogo.pdf ->-> /Users\USER\Downloadscharano-dhorite-diyogo.pdf
+chart.pdf ->-> /Users\USER\Downloadschart.pdf
+class-7-Geography.pdf ->-> /Users\USER\Downloadsclass-7-Geography.pdf
+ClassVI.pdf ->-> /Users\USER\DownloadsClassVI.pdf
+CMV.pdf ->-> /Users\USER\DownloadsCMV.pdf
+Complaint_Detail_.pdf ->-> /Users\USER\DownloadsComplaint_Detail_.pdf
+Computer Architecture Notes.pdf ->-> /Users\USER\DownloadsComputer Architecture Notes.pdf
+Consumer Complaint - Swapan Sarkar.pdf ->-> /Users\USER\DownloadsConsumer Complaint - Swapan Sarkar.pdf
+consumer protection Act 2019.pdf ->-> /Users\USER\Downloadsconsumer protection Act 2019.pdf
+DEAR_MORNING_03122018.pdf ->-> /Users\USER\DownloadsDEAR_MORNING_03122018.pdf
+Demand notice.pdf ->-> /Users\USER\DownloadsDemand notice.pdf
+display_pdf (73) (1).pdf ->-> /Users\USER\Downloadsdisplay_pdf (73) (1).pdf
+display_pdf (73).pdf ->-> /Users\USER\Downloadsdisplay_pdf (73).pdf
+document.pdf ->-> /Users\USER\Downloadsdocument.pdf
+Documents.pdf ->-> /Users\USER\DownloadsDocuments.pdf
+dr-fixit-fevimate-xl-20-kg-portland-cement.pdf ->-> /Users\USER\Downloadsdr-fixit-fevimate-xl-20-kg-portland-cement.pdf
+DT20206723044_Application.pdf ->-> /Users\USER\DownloadsDT20206723044_Application.pdf
+e-brochure-glanza.pdf ->-> /Users\USER\Downloadse-brochure-glanza.pdf
+eChallan_1611660365869_5808.pdf ->-> /Users\USER\DownloadseChallan_1611660365869_5808.pdf
+eChallan_1611770129214_8428.pdf ->-> /Users\USER\DownloadseChallan_1611770129214_8428.pdf
+eChallan_1611770514216_2518.pdf ->-> /Users\USER\DownloadseChallan_1611770514216_2518.pdf
+eChallan_1613583521300_6798.pdf ->-> /Users\USER\DownloadseChallan_1613583521300_6798.pdf
+eChallan_1613879678694_8208.pdf ->-> /Users\USER\DownloadseChallan_1613879678694_8208.pdf
+eChallan_1613904646245_5708.pdf ->-> /Users\USER\DownloadseChallan_1613904646245_5708.pdf
+eChallan_1615302270250_0308.pdf ->-> /Users\USER\DownloadseChallan_1615302270250_0308.pdf
+eChallan_1615954829377_2118.pdf ->-> /Users\USER\DownloadseChallan_1615954829377_2118.pdf
+eChallan_1620098209326_4718.pdf ->-> /Users\USER\DownloadseChallan_1620098209326_4718.pdf
+eChallan_1620359009584_0048.pdf ->-> /Users\USER\DownloadseChallan_1620359009584_0048.pdf
+eChallan_1621326345781_3131.pdf ->-> /Users\USER\DownloadseChallan_1621326345781_3131.pdf
+eCourts_brochure.pdf ->-> /Users\USER\DownloadseCourts_brochure.pdf
+eDRT_Causelist8_35_48.pdf ->-> /Users\USER\DownloadseDRT_Causelist8_35_48.pdf
+Enclosed Documents in connection with Complaint dt 09.10.2020.pdf ->-> /Users\USER\DownloadsEnclosed Documents in connection with Complaint dt 09.10.2020.pdf
+Enclosed Documents in connection with Complaint dt 09.10.2020_compressed.pdf ->-> /Users\USER\DownloadsEnclosed Documents in connection with Complaint dt 09.10.2020_compressed.pdf
+epay_brochure.pdf ->-> /Users\USER\Downloadsepay_brochure.pdf
+exam.pdf ->-> /Users\USER\Downloadsexam.pdf
+EXPERT detectives-converted.pdf ->-> /Users\USER\DownloadsEXPERT detectives-converted.pdf
+Form (1).pdf ->-> /Users\USER\DownloadsForm (1).pdf
+Form (2).pdf ->-> /Users\USER\DownloadsForm (2).pdf
+Form (3).pdf ->-> /Users\USER\DownloadsForm (3).pdf
+Form (4).pdf ->-> /Users\USER\DownloadsForm (4).pdf
+Form (5).pdf ->-> /Users\USER\DownloadsForm (5).pdf
+Form (6).pdf ->-> /Users\USER\DownloadsForm (6).pdf
+Form.pdf ->-> /Users\USER\DownloadsForm.pdf
+FormXReport8016387001347021 (1).pdf ->-> /Users\USER\DownloadsFormXReport8016387001347021 (1).pdf
+FormXReport8016387001347021.pdf ->-> /Users\USER\DownloadsFormXReport8016387001347021.pdf
+FormXReport8016388436610837 RUDRA .pdf ->-> /Users\USER\DownloadsFormXReport8016388436610837 RUDRA .pdf
+FormXReport8016388436610837.pdf ->-> /Users\USER\DownloadsFormXReport8016388436610837.pdf
+FormXReport8016389851006612 (1).pdf ->-> /Users\USER\DownloadsFormXReport8016389851006612 (1).pdf
+FormXReport8016389851006612.pdf ->-> /Users\USER\DownloadsFormXReport8016389851006612.pdf
+form_19012801WES9851006612_www.filertionline.in.02Feb19_023048.pdf ->-> /Users\USER\Downloadsform_19012801WES9851006612_www.filertionline.in.02Feb19_023048.pdf
+gRADUATION.pdf ->-> /Users\USER\DownloadsgRADUATION.pdf
+Grips_Challan_0103052007002896.pdf ->-> /Users\USER\DownloadsGrips_Challan_0103052007002896.pdf
+Guidelines-PSC.pdf ->-> /Users\USER\DownloadsGuidelines-PSC.pdf
+HDFC Bank_Voucher.pdf ->-> /Users\USER\DownloadsHDFC Bank_Voucher.pdf
+Insurance policy 2021 to 2022.pdf ->-> /Users\USER\DownloadsInsurance policy 2021 to 2022.pdf
+ITR 1718.pdf ->-> /Users\USER\DownloadsITR 1718.pdf
+ITR 1819.pdf ->-> /Users\USER\DownloadsITR 1819.pdf
+ITR 1920.pdf ->-> /Users\USER\DownloadsITR 1920.pdf
+JanExam.pdf ->-> /Users\USER\DownloadsJanExam.pdf
+judgement2011-09-22.pdf ->-> /Users\USER\Downloadsjudgement2011-09-22.pdf
+kia-seltos-brochure (1).pdf ->-> /Users\USER\Downloadskia-seltos-brochure (1).pdf
+kia-seltos-brochure.pdf ->-> /Users\USER\Downloadskia-seltos-brochure.pdf
+KiaSeltosBrochure-16PP_Desktop-share_compressed.pdf ->-> /Users\USER\DownloadsKiaSeltosBrochure-16PP_Desktop-share_compressed.pdf
+Kotak Mahindra Bank_Voucher.pdf ->-> /Users\USER\DownloadsKotak Mahindra Bank_Voucher.pdf
+Lakshmi_puja_Eagle_Vs_2-I.pdf ->-> /Users\USER\DownloadsLakshmi_puja_Eagle_Vs_2-I.pdf
+Land & Land Reforms (10).pdf ->-> /Users\USER\DownloadsLand & Land Reforms (10).pdf
+LandDeedAparnaRoy.pdf ->-> /Users\USER\DownloadsLandDeedAparnaRoy.pdf
+LandDeedHimansuMohanRoy (1).pdf ->-> /Users\USER\DownloadsLandDeedHimansuMohanRoy (1).pdf
+LandDeedHimansuMohanRoy.pdf ->-> /Users\USER\DownloadsLandDeedHimansuMohanRoy.pdf
+LCA2018.pdf ->-> /Users\USER\DownloadsLCA2018.pdf
+Legal Heirs Certificate.pdf ->-> /Users\USER\DownloadsLegal Heirs Certificate.pdf
+LMMHA28022017.pdf ->-> /Users\USER\DownloadsLMMHA28022017.pdf
+Loan Letter#265991.pdf ->-> /Users\USER\DownloadsLoan Letter#265991.pdf
+LockedChoices_20090011467.pdf ->-> /Users\USER\DownloadsLockedChoices_20090011467.pdf
+mandir.pdf ->-> /Users\USER\Downloadsmandir.pdf
+Maths homework exercise 1.2.pdf ->-> /Users\USER\DownloadsMaths homework exercise 1.2.pdf
+Maths-class-5.pdf ->-> /Users\USER\DownloadsMaths-class-5.pdf
+ML Mathematics-book.pdf ->-> /Users\USER\DownloadsML Mathematics-book.pdf
+Mr Phalguni Chatterjee.pdf ->-> /Users\USER\DownloadsMr Phalguni Chatterjee.pdf
+MT-2 (MT-1 _XI) Date sheet.pdf ->-> /Users\USER\DownloadsMT-2 (MT-1 _XI) Date sheet.pdf
+NAGALANDclaim_form.pdf ->-> /Users\USER\DownloadsNAGALANDclaim_form.pdf
+New Doc 2018-08-24.pdf ->-> /Users\USER\DownloadsNew Doc 2018-08-24.pdf
+New Doc 2019-01-03_1.pdf ->-> /Users\USER\DownloadsNew Doc 2019-01-03_1.pdf
+New Doc 2019-03-06 13.24.55_1.pdf ->-> /Users\USER\DownloadsNew Doc 2019-03-06 13.24.55_1.pdf
+New Doc 2019-04-26_1 (1).pdf ->-> /Users\USER\DownloadsNew Doc 2019-04-26_1 (1).pdf
+New Doc 2019-04-26_1 (2).pdf ->-> /Users\USER\DownloadsNew Doc 2019-04-26_1 (2).pdf
+New Doc 2019-04-26_1 (3).pdf ->-> /Users\USER\DownloadsNew Doc 2019-04-26_1 (3).pdf
+New Doc 2019-04-26_1.pdf ->-> /Users\USER\DownloadsNew Doc 2019-04-26_1.pdf
+New Doc 2019-04-28 23.30.18.pdf ->-> /Users\USER\DownloadsNew Doc 2019-04-28 23.30.18.pdf
+New Doc 2019-05-07 11.25.29_1.pdf ->-> /Users\USER\DownloadsNew Doc 2019-05-07 11.25.29_1.pdf
+New Doc 2019-05-22_1.pdf ->-> /Users\USER\DownloadsNew Doc 2019-05-22_1.pdf
+New Doc 2019-06-21 13.32.05.pdf ->-> /Users\USER\DownloadsNew Doc 2019-06-21 13.32.05.pdf
+New Doc 2019-06-21 13.37.35.pdf ->-> /Users\USER\DownloadsNew Doc 2019-06-21 13.37.35.pdf
+New Doc 2019-07-17 19.58.45.pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45.pdf
+New Doc 2019-07-17 19.58.45_4 (1).pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4 (1).pdf
+New Doc 2019-07-17 19.58.45_4 (2).pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4 (2).pdf
+New Doc 2019-07-17 19.58.45_4 (3).pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4 (3).pdf
+New Doc 2019-07-17 19.58.45_4 (4).pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4 (4).pdf
+New Doc 2019-07-17 19.58.45_4 (5).pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4 (5).pdf
+New Doc 2019-07-17 19.58.45_4.pdf ->-> /Users\USER\DownloadsNew Doc 2019-07-17 19.58.45_4.pdf
+New Doc 2019-11-15 08.58.08.pdf ->-> /Users\USER\DownloadsNew Doc 2019-11-15 08.58.08.pdf
+New Doc 2019-11-15 08.58.45 (1).pdf ->-> /Users\USER\DownloadsNew Doc 2019-11-15 08.58.45 (1).pdf
+New Doc 2019-11-15 08.58.45 (2).pdf ->-> /Users\USER\DownloadsNew Doc 2019-11-15 08.58.45 (2).pdf
+New Doc 2019-11-15 08.58.45 (3).pdf ->-> /Users\USER\DownloadsNew Doc 2019-11-15 08.58.45 (3).pdf
+New Doc 2019-11-15 08.58.45.pdf ->-> /Users\USER\DownloadsNew Doc 2019-11-15 08.58.45.pdf
+New Doc 2020-01-21 18.37.04.pdf ->-> /Users\USER\DownloadsNew Doc 2020-01-21 18.37.04.pdf
+New Document(13).pdf ->-> /Users\USER\DownloadsNew Document(13).pdf
+nil 3rd yr form .pdf ->-> /Users\USER\Downloadsnil 3rd yr form .pdf
+nil ppr.pdf ->-> /Users\USER\Downloadsnil ppr.pdf
+overall results patla_compressed.pdf ->-> /Users\USER\Downloadsoverall results patla_compressed.pdf
+panpc-converted.pdf ->-> /Users\USER\Downloadspanpc-converted.pdf
+Partner Deed_compressed 3.pdf ->-> /Users\USER\DownloadsPartner Deed_compressed 3.pdf
+Partner Deed_compressed_compressed.pdf ->-> /Users\USER\DownloadsPartner Deed_compressed_compressed.pdf
+Partner Deed_compressed_compressed_compressed.pdf ->-> /Users\USER\DownloadsPartner Deed_compressed_compressed_compressed.pdf
+Partner Deed_compressed_compressed_compressed_compressed.pdf ->-> /Users\USER\DownloadsPartner Deed_compressed_compressed_compressed_compressed.pdf
+pdfresizer.com-pdf-resize.pdf ->-> /Users\USER\Downloadspdfresizer.com-pdf-resize.pdf
+PH-15809604312CR.pdf ->-> /Users\USER\DownloadsPH-15809604312CR.pdf
+Phalguni LL Form.pdf ->-> /Users\USER\DownloadsPhalguni LL Form.pdf
+PHALGUNI VOTER ID.pdf ->-> /Users\USER\DownloadsPHALGUNI VOTER ID.pdf
+PPR_60686432.pdf ->-> /Users\USER\DownloadsPPR_60686432.pdf
+PressNote_SRER2019.pdf ->-> /Users\USER\DownloadsPressNote_SRER2019.pdf
+puja proj.pdf ->-> /Users\USER\Downloadspuja proj.pdf
+Python Lab Assignment 7.pdf ->-> /Users\USER\DownloadsPython Lab Assignment 7.pdf
+receipt.pdf ->-> /Users\USER\Downloadsreceipt.pdf
+Receipt_10_14_2018 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_10_14_2018 12_00_00 AM.pdf
+Receipt_10_15_2020 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_10_15_2020 12_00_00 AM.pdf
+Receipt_1_13_2019 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_1_13_2019 12_00_00 AM.pdf
+Receipt_1_14_2021 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_1_14_2021 12_00_00 AM.pdf
+Receipt_4_12_2019 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_4_12_2019 12_00_00 AM.pdf
+Receipt_4_15_2021 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_4_15_2021 12_00_00 AM.pdf
+Receipt_7_15_2019 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_7_15_2019 12_00_00 AM.pdf
+Receipt_7_17_2020 12_00_00 AM.pdf ->-> /Users\USER\DownloadsReceipt_7_17_2020 12_00_00 AM.pdf
+Refund.pdf ->-> /Users\USER\DownloadsRefund.pdf
+Report-20201003094150.pdf ->-> /Users\USER\DownloadsReport-20201003094150.pdf
+RIDDLES-converted (1).pdf ->-> /Users\USER\DownloadsRIDDLES-converted (1).pdf
+RIDDLES-converted.pdf ->-> /Users\USER\DownloadsRIDDLES-converted.pdf
+RRB NILAKASH GRP D.pdf ->-> /Users\USER\DownloadsRRB NILAKASH GRP D.pdf
+sampoornSuraksha.pdf ->-> /Users\USER\DownloadssampoornSuraksha.pdf
+Scan 19-May-2019.pdf ->-> /Users\USER\DownloadsScan 19-May-2019.pdf
+science chapter 1.pdf ->-> /Users\USER\Downloadsscience chapter 1.pdf
+Session ending exam computer.pdf ->-> /Users\USER\DownloadsSession ending exam computer.pdf
+Session Ending Exam English.pdf ->-> /Users\USER\DownloadsSession Ending Exam English.pdf
+Session Ending Exam Science.pdf ->-> /Users\USER\DownloadsSession Ending Exam Science.pdf
+session.pdf ->-> /Users\USER\Downloadssession.pdf
+ShowPdf (10).pdf ->-> /Users\USER\DownloadsShowPdf (10).pdf
+Sonet-Destop.pdf ->-> /Users\USER\DownloadsSonet-Destop.pdf
+SpiceJet_BagaggeLabel_QEHB8A_for_SHAMIK__ROY (1).pdf ->-> /Users\USER\DownloadsSpiceJet_BagaggeLabel_QEHB8A_for_SHAMIK__ROY (1).pdf
+SQLNotesForProfessionals.pdf ->-> /Users\USER\DownloadsSQLNotesForProfessionals.pdf
+SST SESSION ENDING EXAM(1).pdf ->-> /Users\USER\DownloadsSST SESSION ENDING EXAM(1).pdf
+SSyllabus.pdf ->-> /Users\USER\DownloadsSSyllabus.pdf
+TataSkyChatTranscript0001HaF5PU04CKEY.pdf ->-> /Users\USER\DownloadsTataSkyChatTranscript0001HaF5PU04CKEY.pdf
+Tax Recpts.pdf ->-> /Users\USER\DownloadsTax Recpts.pdf
+Tendernotice_1.pdf ->-> /Users\USER\DownloadsTendernotice_1.pdf
+test (1).pdf ->-> /Users\USER\Downloadstest (1).pdf
+test.pdf ->-> /Users\USER\Downloadstest.pdf
+The West Bengal Gambling and Prize Competitions Act, 1957_1.pdf ->-> /Users\USER\DownloadsThe West Bengal Gambling and Prize Competitions Act, 1957_1.pdf
+Trips_Flight_DownloadETicket.pdf ->-> /Users\USER\DownloadsTrips_Flight_DownloadETicket.pdf
+tumi-robe-nirobe.pdf ->-> /Users\USER\Downloadstumi-robe-nirobe.pdf
+uribapplicationform_38914870.pdf ->-> /Users\USER\Downloadsuribapplicationform_38914870.pdf
+verifier verification format cacpic.pdf ->-> /Users\USER\Downloadsverifier verification format cacpic.pdf
+view.pdf ->-> /Users\USER\Downloadsview.pdf
+WhatsApp Template 2020-01-23 at 1.32.24 PM (1).pdf ->-> /Users\USER\DownloadsWhatsApp Template 2020-01-23 at 1.32.24 PM (1).pdf
+WhatsApp Template 2020-01-23 at 1.32.24 PM.pdf ->-> /Users\USER\DownloadsWhatsApp Template 2020-01-23 at 1.32.24 PM.pdf
+license.pdf ->-> /Users\USER\Downloads\110870-crosshair\110870-crosshair\licenselicense.pdf
+class-viic computer (1).pdf ->-> /Users\USER\Downloads\class 7 goju's booksclass-viic computer (1).pdf
+FormB_NEW_02-12-2020.pdf ->-> /Users\USER\Downloads\class 7 goju's booksFormB_NEW_02-12-2020.pdf
+Nanda Gopal .pdf ->-> /Users\USER\Downloads\class 7 goju's booksNanda Gopal .pdf
+gess301.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess301.pdf
+gess302.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess302.pdf
+gess303.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess303.pdf
+gess304.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess304.pdf
+gess305.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess305.pdf
+gess306.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess306.pdf
+gess307.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess307.pdf
+gess308.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess308.pdf
+gess309.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess309.pdf
+gess3ps.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Civicsgess3ps.pdf
+ENGLISH M ps (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (1).pdf
+ENGLISH M ps (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (10).pdf
+ENGLISH M ps (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (11).pdf
+ENGLISH M ps (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (2).pdf
+ENGLISH M ps (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (3).pdf
+ENGLISH M ps (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (4).pdf
+ENGLISH M ps (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (5).pdf
+ENGLISH M ps (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (6).pdf
+ENGLISH M ps (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (7).pdf
+ENGLISH M ps (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (8).pdf
+ENGLISH M ps (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english main bookENGLISH M ps (9).pdf
+ENGLISH SUP 1ps (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (1).pdf
+ENGLISH SUP 1ps (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (10).pdf
+ENGLISH SUP 1ps (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (11).pdf
+ENGLISH SUP 1ps (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (2).pdf
+ENGLISH SUP 1ps (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (3).pdf
+ENGLISH SUP 1ps (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (4).pdf
+ENGLISH SUP 1ps (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (5).pdf
+ENGLISH SUP 1ps (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (6).pdf
+ENGLISH SUP 1ps (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (7).pdf
+ENGLISH SUP 1ps (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (8).pdf
+ENGLISH SUP 1ps (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\english supplementary bookENGLISH SUP 1ps (9).pdf
+class-7-Geography.pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyclass-7-Geography.pdf
+GEOGRAPHY  (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (1).pdf
+GEOGRAPHY  (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (2).pdf
+GEOGRAPHY  (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (3).pdf
+GEOGRAPHY  (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (4).pdf
+GEOGRAPHY  (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (5).pdf
+GEOGRAPHY  (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (6).pdf
+GEOGRAPHY  (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (7).pdf
+GEOGRAPHY  (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (8).pdf
+GEOGRAPHY  (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\georaphyGEOGRAPHY  (9).pdf
+hindi durva (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (1).pdf
+hindi durva (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (10).pdf
+hindi durva (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (11).pdf
+hindi durva (12).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (12).pdf
+hindi durva (13).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (13).pdf
+hindi durva (14).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (14).pdf
+hindi durva (15).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (15).pdf
+hindi durva (16).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (16).pdf
+hindi durva (17).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (17).pdf
+hindi durva (18).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (18).pdf
+hindi durva (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (2).pdf
+hindi durva (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (3).pdf
+hindi durva (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (4).pdf
+hindi durva (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (5).pdf
+hindi durva (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (6).pdf
+hindi durva (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (7).pdf
+hindi durva (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (8).pdf
+hindi durva (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi durva bookhindi durva (9).pdf
+HINDI  (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (1).pdf
+HINDI  (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (10).pdf
+HINDI  (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (11).pdf
+HINDI  (12).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (12).pdf
+HINDI  (13).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (13).pdf
+HINDI  (14).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (14).pdf
+HINDI  (15).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (15).pdf
+HINDI  (16).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (16).pdf
+HINDI  (17).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (17).pdf
+HINDI  (18).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (18).pdf
+HINDI  (19).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (19).pdf
+HINDI  (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (2).pdf
+HINDI  (20).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (20).pdf
+HINDI  (21).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (21).pdf
+HINDI  (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (3).pdf
+HINDI  (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (4).pdf
+HINDI  (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (5).pdf
+HINDI  (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (6).pdf
+HINDI  (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (7).pdf
+HINDI  (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (8).pdf
+HINDI  (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\hindi main bookHINDI  (9).pdf
+gess101.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess101.pdf
+gess102.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess102.pdf
+gess103.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess103.pdf
+gess104.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess104.pdf
+gess105.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess105.pdf
+gess106.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess106.pdf
+gess107.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess107.pdf
+gess108.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess108.pdf
+gess109.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess109.pdf
+gess110.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess110.pdf
+gess1ps.pdf ->-> /Users\USER\Downloads\class 7 goju's books\Historygess1ps.pdf
+maths .pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths .pdf
+maths answers .pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths answers .pdf
+maths ch-1.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-1.pdf
+maths ch-10.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-10.pdf
+maths ch-11 .pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-11 .pdf
+maths ch-12.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-12.pdf
+maths ch-13.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-13.pdf
+maths ch-14.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-14.pdf
+maths ch-15.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-15.pdf
+maths ch-2.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-2.pdf
+maths ch-3.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-3.pdf
+maths ch-4.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-4.pdf
+maths ch-5.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-5.pdf
+maths ch-6.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-6.pdf
+maths ch-7.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-7.pdf
+maths ch-8.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-8.pdf
+maths ch-9.pdf ->-> /Users\USER\Downloads\class 7 goju's books\mathsmaths ch-9.pdf
+SANSKRIT 1pr (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (1).pdf
+SANSKRIT 1pr (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (10).pdf
+SANSKRIT 1pr (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (11).pdf
+SANSKRIT 1pr (12).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (12).pdf
+SANSKRIT 1pr (13).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (13).pdf
+SANSKRIT 1pr (14).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (14).pdf
+SANSKRIT 1pr (15).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (15).pdf
+SANSKRIT 1pr (16).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (16).pdf
+SANSKRIT 1pr (17).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (17).pdf
+SANSKRIT 1pr (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (3).pdf
+SANSKRIT 1pr (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (4).pdf
+SANSKRIT 1pr (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (5).pdf
+SANSKRIT 1pr (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (6).pdf
+SANSKRIT 1pr (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (7).pdf
+SANSKRIT 1pr (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (8).pdf
+SANSKRIT 1pr (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT 1pr (9).pdf
+SANSKRIT(INTRO).pdf ->-> /Users\USER\Downloads\class 7 goju's books\sanskritSANSKRIT(INTRO).pdf
+SCIENCE  (1).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (1).pdf
+SCIENCE  (10).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (10).pdf
+SCIENCE  (11).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (11).pdf
+SCIENCE  (12).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (12).pdf
+SCIENCE  (13).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (13).pdf
+SCIENCE  (14).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (14).pdf
+SCIENCE  (15).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (15).pdf
+SCIENCE  (16).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (16).pdf
+SCIENCE  (17).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (17).pdf
+SCIENCE  (18).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (18).pdf
+SCIENCE  (2).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (2).pdf
+SCIENCE  (3).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (3).pdf
+SCIENCE  (4).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (4).pdf
+SCIENCE  (5).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (5).pdf
+SCIENCE  (6).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (6).pdf
+SCIENCE  (7).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (7).pdf
+SCIENCE  (8).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (8).pdf
+SCIENCE  (9).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (9).pdf
+SCIENCE  (INDEX).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (INDEX).pdf
+SCIENCE  (INTRODUCTION & CONTENTS).pdf ->-> /Users\USER\Downloads\class 7 goju's books\scienceSCIENCE  (INTRODUCTION & CONTENTS).pdf
+Addl-Tax.pdf ->-> /Users\USER\Downloads\CompressedAddl-Tax.pdf
+Bank sbi .pdf ->-> /Users\USER\Downloads\CompressedBank sbi .pdf
+Bubai Das getDeedPDFFile.do.pdf ->-> /Users\USER\Downloads\CompressedBubai Das getDeedPDFFile.do.pdf
+computer_fundamental_complete-i.pdf ->-> /Users\USER\Downloads\Compressedcomputer_fundamental_complete-i.pdf
+dl slot appointment.pdf ->-> /Users\USER\Downloads\Compresseddl slot appointment.pdf
+dl slot appointment2.pdf ->-> /Users\USER\Downloads\Compresseddl slot appointment2.pdf
+Sima 943getDeedPDFFile.do.pdf ->-> /Users\USER\Downloads\CompressedSima 943getDeedPDFFile.do.pdf
+Challan (1).pdf ->-> /Users\USER\Downloads\DocumentsChallan (1).pdf
+Challan.pdf ->-> /Users\USER\Downloads\DocumentsChallan.pdf
+NCERT-Class-6-Mathematics.pdf ->-> /Users\USER\Downloads\DocumentsNCERT-Class-6-Mathematics.pdf
+M.SC COMP SC BHU.pdf ->-> /Users\USER\Downloads\nilakash masters formsM.SC COMP SC BHU.pdf
+MCA BHU.pdf ->-> /Users\USER\Downloads\nilakash masters formsMCA BHU.pdf
+0701574_MN201807013365.pdf ->-> /Users\USER\Downloads\pdf0701574_MN201807013365.pdf
+12042017CE884Prog.pdf ->-> /Users\USER\Downloads\pdf12042017CE884Prog.pdf
+1326092462659-RRC_Ad_English__Cultural_Qouta_-1.pdf ->-> /Users\USER\Downloads\pdf1326092462659-RRC_Ad_English__Cultural_Qouta_-1.pdf
+1502418954594IK00GTXLA7.pdf ->-> /Users\USER\Downloads\pdf1502418954594IK00GTXLA7.pdf
+1507809160369IK00IDWNW6.pdf ->-> /Users\USER\Downloads\pdf1507809160369IK00IDWNW6.pdf
+1508940145306IK00INMEO5.pdf ->-> /Users\USER\Downloads\pdf1508940145306IK00INMEO5.pdf
+1521285685934NtUjOYuGZTyYP4H6.pdf ->-> /Users\USER\Downloads\pdf1521285685934NtUjOYuGZTyYP4H6.pdf
+1521285745768thGBY6pIhbAxdrEI.pdf ->-> /Users\USER\Downloads\pdf1521285745768thGBY6pIhbAxdrEI.pdf
+1521534127790IK00NJIBI1.pdf ->-> /Users\USER\Downloads\pdf1521534127790IK00NJIBI1.pdf
+1522595959341yUP1efrLxwLwThKH.pdf ->-> /Users\USER\Downloads\pdf1522595959341yUP1efrLxwLwThKH.pdf
+15226029486376nlGB0vYfMN5d52I.pdf ->-> /Users\USER\Downloads\pdf15226029486376nlGB0vYfMN5d52I.pdf
+1522689097123IK00OAMQX3.pdf ->-> /Users\USER\Downloads\pdf1522689097123IK00OAMQX3.pdf
+1522861145977IK00OBZJL3.pdf ->-> /Users\USER\Downloads\pdf1522861145977IK00OBZJL3.pdf
+1523455353502IK00OGLRK0.pdf ->-> /Users\USER\Downloads\pdf1523455353502IK00OGLRK0.pdf
+1523592338574IK00OHLHN6.pdf ->-> /Users\USER\Downloads\pdf1523592338574IK00OHLHN6.pdf
+1525002696514IK00OVEVH0.pdf ->-> /Users\USER\Downloads\pdf1525002696514IK00OVEVH0.pdf
+1527420399544IK00PQJFS2.pdf ->-> /Users\USER\Downloads\pdf1527420399544IK00PQJFS2.pdf
+1529577064996IK00QKVJD9.pdf ->-> /Users\USER\Downloads\pdf1529577064996IK00QKVJD9.pdf
+1530297520213IK00QRKIY0.pdf ->-> /Users\USER\Downloads\pdf1530297520213IK00QRKIY0.pdf
+1530297949748IK00QRKIK2.pdf ->-> /Users\USER\Downloads\pdf1530297949748IK00QRKIK2.pdf
+1530298382188IK00QRKHX6.pdf ->-> /Users\USER\Downloads\pdf1530298382188IK00QRKHX6.pdf
+1530298852030IK00QRKIO5.pdf ->-> /Users\USER\Downloads\pdf1530298852030IK00QRKIO5.pdf
+17019945538-ACAxxxxx7C-G4.pdf ->-> /Users\USER\Downloads\pdf17019945538-ACAxxxxx7C-G4.pdf
+2012-Honda-CityOld-MU071PR16000154.pdf ->-> /Users\USER\Downloads\pdf2012-Honda-CityOld-MU071PR16000154.pdf
+2013-Ford-Ecosport-MD011PR16000156.pdf ->-> /Users\USER\Downloads\pdf2013-Ford-Ecosport-MD011PR16000156.pdf
+2015_Creta_ebrochure_1470397887632.pdf ->-> /Users\USER\Downloads\pdf2015_Creta_ebrochure_1470397887632.pdf
+2460-F(Y)Dt.21.04.2017.pdf ->-> /Users\USER\Downloads\pdf2460-F(Y)Dt.21.04.2017.pdf
+29012018cerevised388schedule.pdf ->-> /Users\USER\Downloads\pdf29012018cerevised388schedule.pdf
+487908209bio_phy_chem.pdf ->-> /Users\USER\Downloads\pdf487908209bio_phy_chem.pdf
+4_5852495524711629363.pdf ->-> /Users\USER\Downloads\pdf4_5852495524711629363.pdf
+Abraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts (2008, Wiley).pdf ->-> /Users\USER\Downloads\pdfAbraham Silberschatz, Peter B. Galvin, Greg Gagne - Operating System Concepts (2008, Wiley).pdf
+ACAPC1907C-2017 (1).pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2017 (1).pdf
+ACAPC1907C-2017 (2).pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2017 (2).pdf
+ACAPC1907C-2017.pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2017.pdf
+ACAPC1907C-2018 (1).pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2018 (1).pdf
+ACAPC1907C-2018 (2).pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2018 (2).pdf
+ACAPC1907C-2018 (3).pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2018 (3).pdf
+ACAPC1907C-2018.pdf ->-> /Users\USER\Downloads\pdfACAPC1907C-2018.pdf
+ACCOUNT_OPENING2018_03_04_16_43_04.pdf ->-> /Users\USER\Downloads\pdfACCOUNT_OPENING2018_03_04_16_43_04.pdf
+ACCOUNT_OPENING2018_03_04_16_44_02.pdf ->-> /Users\USER\Downloads\pdfACCOUNT_OPENING2018_03_04_16_44_02.pdf
+All-New-EcoSport-Brochure.pdf ->-> /Users\USER\Downloads\pdfAll-New-EcoSport-Brochure.pdf
+annual-report-2016-17.pdf ->-> /Users\USER\Downloads\pdfannual-report-2016-17.pdf
+application for loan.pdf ->-> /Users\USER\Downloads\pdfapplication for loan.pdf
+Application_Format.pdf ->-> /Users\USER\Downloads\pdfApplication_Format.pdf
+App_mutation_land.pdf ->-> /Users\USER\Downloads\pdfApp_mutation_land.pdf
+aspire-brochure.pdf ->-> /Users\USER\Downloads\pdfaspire-brochure.pdf
+Assam-02_Results.pdf ->-> /Users\USER\Downloads\pdfAssam-02_Results.pdf
+Baleno-Accessories_Brochure.pdf ->-> /Users\USER\Downloads\pdfBaleno-Accessories_Brochure.pdf
+Baleno-Brochure.pdf ->-> /Users\USER\Downloads\pdfBaleno-Brochure.pdf
+Bharti airtel subhash.pdf ->-> /Users\USER\Downloads\pdfBharti airtel subhash.pdf
+brezza_brand_brochure.pdf ->-> /Users\USER\Downloads\pdfbrezza_brand_brochure.pdf
+brio_Broucher.pdf ->-> /Users\USER\Downloads\pdfbrio_Broucher.pdf
+causelist12017-02-15.pdf ->-> /Users\USER\Downloads\pdfcauselist12017-02-15.pdf
+causelist12018-04-25.pdf ->-> /Users\USER\Downloads\pdfcauselist12018-04-25.pdf
+causelist12018-05-18.pdf ->-> /Users\USER\Downloads\pdfcauselist12018-05-18.pdf
+CBSE - Senior School Certificate Examination (Class XII) Results 2018.pdf ->-> /Users\USER\Downloads\pdfCBSE - Senior School Certificate Examination (Class XII) Results 2018.pdf
+Certified copy SC.pdf ->-> /Users\USER\Downloads\pdfCertified copy SC.pdf
+Challan (1).pdf ->-> /Users\USER\Downloads\pdfChallan (1).pdf
+Challan (10).pdf ->-> /Users\USER\Downloads\pdfChallan (10).pdf
+Challan (11).pdf ->-> /Users\USER\Downloads\pdfChallan (11).pdf
+Challan (2) (1).pdf ->-> /Users\USER\Downloads\pdfChallan (2) (1).pdf
+Challan (2) (2).pdf ->-> /Users\USER\Downloads\pdfChallan (2) (2).pdf
+Challan (2) (3).pdf ->-> /Users\USER\Downloads\pdfChallan (2) (3).pdf
+Challan (2).pdf ->-> /Users\USER\Downloads\pdfChallan (2).pdf
+Challan (3).pdf ->-> /Users\USER\Downloads\pdfChallan (3).pdf
+Challan (4).pdf ->-> /Users\USER\Downloads\pdfChallan (4).pdf
+Challan (5).pdf ->-> /Users\USER\Downloads\pdfChallan (5).pdf
+Challan (6).pdf ->-> /Users\USER\Downloads\pdfChallan (6).pdf
+Challan (7).pdf ->-> /Users\USER\Downloads\pdfChallan (7).pdf
+Challan (8).pdf ->-> /Users\USER\Downloads\pdfChallan (8).pdf
+Challan (9).pdf ->-> /Users\USER\Downloads\pdfChallan (9).pdf
+Challan.pdf ->-> /Users\USER\Downloads\pdfChallan.pdf
+Ciaz_final_brocher.pdf ->-> /Users\USER\Downloads\pdfCiaz_final_brocher.pdf
+city_Brochure.pdf ->-> /Users\USER\Downloads\pdfcity_Brochure.pdf
+datesheet of class XII exam 2017.pdf ->-> /Users\USER\Downloads\pdfdatesheet of class XII exam 2017.pdf
+Deed Subhash-ilovepdf-compressed.pdf ->-> /Users\USER\Downloads\pdfDeed Subhash-ilovepdf-compressed.pdf
+Division 22.12.17.pdf ->-> /Users\USER\Downloads\pdfDivision 22.12.17.pdf
+Division worksheets 30-11-17.pdf ->-> /Users\USER\Downloads\pdfDivision worksheets 30-11-17.pdf
+Division worksheets.pdf ->-> /Users\USER\Downloads\pdfDivision worksheets.pdf
+DomicileCertificatemodified.pdf ->-> /Users\USER\Downloads\pdfDomicileCertificatemodified.pdf
+DownloadFormsIndia_Govt_1072.pdf ->-> /Users\USER\Downloads\pdfDownloadFormsIndia_Govt_1072.pdf
+DownloadFormsIndia_Govt_1073.pdf ->-> /Users\USER\Downloads\pdfDownloadFormsIndia_Govt_1073.pdf
+DSC_step_by_step_ins.pdf ->-> /Users\USER\Downloads\pdfDSC_step_by_step_ins.pdf
+ecosport-brochure (1).pdf ->-> /Users\USER\Downloads\pdfecosport-brochure (1).pdf
+ecosport-brochure.pdf ->-> /Users\USER\Downloads\pdfecosport-brochure.pdf
+EcoSport_Brochure.pdf ->-> /Users\USER\Downloads\pdfEcoSport_Brochure.pdf
+education Trust 08.04017.pdf ->-> /Users\USER\Downloads\pdfeducation Trust 08.04017.pdf
+english pATNA hIGH COURT.pdf ->-> /Users\USER\Downloads\pdfenglish pATNA hIGH COURT.pdf
+env.pdf ->-> /Users\USER\Downloads\pdfenv.pdf
+Envs 2.pdf ->-> /Users\USER\Downloads\pdfEnvs 2.pdf
+exchange Deed.pdf ->-> /Users\USER\Downloads\pdfexchange Deed.pdf
+figo-brochure.pdf ->-> /Users\USER\Downloads\pdffigo-brochure.pdf
+filename.pdf ->-> /Users\USER\Downloads\pdffilename.pdf
+filename_2.pdf ->-> /Users\USER\Downloads\pdffilename_2.pdf
+Franchise.pdf ->-> /Users\USER\Downloads\pdfFranchise.pdf
+Gradation-List-HC-as-on-01-01-2018-copy-1.pdf ->-> /Users\USER\Downloads\pdfGradation-List-HC-as-on-01-01-2018-copy-1.pdf
+honda-jazz-1.5-vx-i-dtec-brochure.pdf ->-> /Users\USER\Downloads\pdfhonda-jazz-1.5-vx-i-dtec-brochure.pdf
+IFB Kitchen.pdf ->-> /Users\USER\Downloads\pdfIFB Kitchen.pdf
+Ignis_Product_Brochure.pdf ->-> /Users\USER\Downloads\pdfIgnis_Product_Brochure.pdf
+Information_AGTransfer_05042018.pdf ->-> /Users\USER\Downloads\pdfInformation_AGTransfer_05042018.pdf
+JEE(Main)_AcknowledgementPage.pdf ->-> /Users\USER\Downloads\pdfJEE(Main)_AcknowledgementPage.pdf
+JEE-Mains-Question-Paper-II-Solutions-2016.pdf ->-> /Users\USER\Downloads\pdfJEE-Mains-Question-Paper-II-Solutions-2016.pdf
+judgement2011-09-22 (1).pdf ->-> /Users\USER\Downloads\pdfjudgement2011-09-22 (1).pdf
+judgement2016-07-22.pdf ->-> /Users\USER\Downloads\pdfjudgement2016-07-22.pdf
+Land & Land Reforms (1).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (1).pdf
+Land & Land Reforms (11).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (11).pdf
+Land & Land Reforms (2).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (2).pdf
+Land & Land Reforms (3).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (3).pdf
+Land & Land Reforms (4).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (4).pdf
+Land & Land Reforms (5).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (5).pdf
+Land & Land Reforms (6).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (6).pdf
+Land & Land Reforms (7).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (7).pdf
+Land & Land Reforms (8).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (8).pdf
+Land & Land Reforms (9).pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms (9).pdf
+Land & Land Reforms.pdf ->-> /Users\USER\Downloads\pdfLand & Land Reforms.pdf
+Land Details Page sanjib 14-03-18.pdf ->-> /Users\USER\Downloads\pdfLand Details Page sanjib 14-03-18.pdf
+Metric Length Worksheets.pdf ->-> /Users\USER\Downloads\pdfMetric Length Worksheets.pdf
+NEST2017-Brochure-Syllabus.pdf ->-> /Users\USER\Downloads\pdfNEST2017-Brochure-Syllabus.pdf
+NEXON_BROCHURE_FOR_WEB.pdf ->-> /Users\USER\Downloads\pdfNEXON_BROCHURE_FOR_WEB.pdf
+NJP HWH 5.pdf ->-> /Users\USER\Downloads\pdfNJP HWH 5.pdf
+OPERATIONAL HANDOUT for MARRIAGE OFFFICERS.pdf ->-> /Users\USER\Downloads\pdfOPERATIONAL HANDOUT for MARRIAGE OFFFICERS.pdf
+P-I_MTMG_2012.pdf ->-> /Users\USER\Downloads\pdfP-I_MTMG_2012.pdf
+P-I_MTMG_2014.pdf ->-> /Users\USER\Downloads\pdfP-I_MTMG_2014.pdf
+Parent_AFD_6366204_1182017214258534.pdf ->-> /Users\USER\Downloads\pdfParent_AFD_6366204_1182017214258534.pdf
+PDF_ChallanList_7-12-2017 12-00-00 AM.pdf ->-> /Users\USER\Downloads\pdfPDF_ChallanList_7-12-2017 12-00-00 AM.pdf
+physics 2016 question paper.pdf ->-> /Users\USER\Downloads\pdfphysics 2016 question paper.pdf
+physics question paper-1.pdf ->-> /Users\USER\Downloads\pdfphysics question paper-1.pdf
+PPR_41642264.pdf ->-> /Users\USER\Downloads\pdfPPR_41642264.pdf
+PPR_50978377.pdf ->-> /Users\USER\Downloads\pdfPPR_50978377.pdf
+PPR_86554122.pdf ->-> /Users\USER\Downloads\pdfPPR_86554122.pdf
+Pradeep Dev_eChallan_online_reprint (1).pdf ->-> /Users\USER\Downloads\pdfPradeep Dev_eChallan_online_reprint (1).pdf
+Proforma_for_Residential.pdf ->-> /Users\USER\Downloads\pdfProforma_for_Residential.pdf
+Prophet-Hacker-Android-Hacking-Blog Book.pdf ->-> /Users\USER\Downloads\pdfProphet-Hacker-Android-Hacking-Blog Book.pdf
+Raja Dey_eChallan_online_reprint.pdf ->-> /Users\USER\Downloads\pdfRaja Dey_eChallan_online_reprint.pdf
+Raja Dutta Land_Viewer.pdf ->-> /Users\USER\Downloads\pdfRaja Dutta Land_Viewer.pdf
+Raju Chudhury_online_reprint.pdf ->-> /Users\USER\Downloads\pdfRaju Chudhury_online_reprint.pdf
+RANJIT KR BANERJEEpt_Viewer.pdf ->-> /Users\USER\Downloads\pdfRANJIT KR BANERJEEpt_Viewer.pdf
+Receipt_1-10-2017 12-00-00 AM (1).pdf ->-> /Users\USER\Downloads\pdfReceipt_1-10-2017 12-00-00 AM (1).pdf
+Receipt_1-10-2017 12-00-00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_1-10-2017 12-00-00 AM.pdf
+Receipt_10-13-2017 12-00-00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_10-13-2017 12-00-00 AM.pdf
+Receipt_1_14_2018 12_00_00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_1_14_2018 12_00_00 AM.pdf
+Receipt_4_6_2018 12_00_00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_4_6_2018 12_00_00 AM.pdf
+Receipt_7-10-2017 12-00-00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_7-10-2017 12-00-00 AM.pdf
+Receipt_7_15_2018 12_00_00 AM (1).pdf ->-> /Users\USER\Downloads\pdfReceipt_7_15_2018 12_00_00 AM (1).pdf
+Receipt_7_15_2018 12_00_00 AM.pdf ->-> /Users\USER\Downloads\pdfReceipt_7_15_2018 12_00_00 AM.pdf
+Recruitment_Notice.pdf ->-> /Users\USER\Downloads\pdfRecruitment_Notice.pdf
+Refund from GRIPS 1611-F(Y), dt 18.03.2016.pdf ->-> /Users\USER\Downloads\pdfRefund from GRIPS 1611-F(Y), dt 18.03.2016.pdf
+reg_eChallan_online_reprint (1).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (1).pdf
+reg_eChallan_online_reprint (10).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (10).pdf
+reg_eChallan_online_reprint (11).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (11).pdf
+reg_eChallan_online_reprint (2).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (2).pdf
+reg_eChallan_online_reprint (3).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (3).pdf
+reg_eChallan_online_reprint (4).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (4).pdf
+reg_eChallan_online_reprint (5).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (5).pdf
+reg_eChallan_online_reprint (6).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (6).pdf
+reg_eChallan_online_reprint (7).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (7).pdf
+reg_eChallan_online_reprint (8).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (8).pdf
+reg_eChallan_online_reprint (9).pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint (9).pdf
+reg_eChallan_online_reprint.pdf ->-> /Users\USER\Downloads\pdfreg_eChallan_online_reprint.pdf
+Revised_Claim_Format 04.01.18.pdf ->-> /Users\USER\Downloads\pdfRevised_Claim_Format 04.01.18.pdf
+ROOF_Viewer.pdf ->-> /Users\USER\Downloads\pdfROOF_Viewer.pdf
+RoRHelp.pdf ->-> /Users\USER\Downloads\pdfRoRHelp.pdf
+Rudra_4-10-2017 12-00-00 AM.pdf ->-> /Users\USER\Downloads\pdfRudra_4-10-2017 12-00-00 AM.pdf
+s k suman.pdf ->-> /Users\USER\Downloads\pdfs k suman.pdf
+s suman.pdf ->-> /Users\USER\Downloads\pdfs suman.pdf
+S.C. Digest.pdf ->-> /Users\USER\Downloads\pdfS.C. Digest.pdf
+saraswati_puja_paddhati_by_cyber_grandpa.pdf ->-> /Users\USER\Downloads\pdfsaraswati_puja_paddhati_by_cyber_grandpa.pdf
+sigma-complex9-2009-1.pdf ->-> /Users\USER\Downloads\pdfsigma-complex9-2009-1.pdf
+SILIGURI_COLLEGE_seatcapacity.pdf ->-> /Users\USER\Downloads\pdfSILIGURI_COLLEGE_seatcapacity.pdf
+Sonali_eChallan_online_reprint.pdf ->-> /Users\USER\Downloads\pdfSonali_eChallan_online_reprint.pdf
+SONALI_Viewer.pdf ->-> /Users\USER\Downloads\pdfSONALI_Viewer.pdf
+Student_AFD_6366204_1182017214258430.pdf ->-> /Users\USER\Downloads\pdfStudent_AFD_6366204_1182017214258430.pdf
+Study Of Constituents Of An Alloy.pdf ->-> /Users\USER\Downloads\pdfStudy Of Constituents Of An Alloy.pdf
+subo envs 2.pdf ->-> /Users\USER\Downloads\pdfsubo envs 2.pdf
+summarize envs subho.pdf ->-> /Users\USER\Downloads\pdfsummarize envs subho.pdf
+Supplemental-Offering-Circular.pdf ->-> /Users\USER\Downloads\pdfSupplemental-Offering-Circular.pdf
+S_LD_20170630_DPXPC1_1.pdf ->-> /Users\USER\Downloads\pdfS_LD_20170630_DPXPC1_1.pdf
+T51600047503415032017070307.pdf ->-> /Users\USER\Downloads\pdfT51600047503415032017070307.pdf
+TheSpecialMarriageAct1954(UnderSection13).pdf ->-> /Users\USER\Downloads\pdfTheSpecialMarriageAct1954(UnderSection13).pdf
+TheSpecialMarriageAct1954(UnderSection16).pdf ->-> /Users\USER\Downloads\pdfTheSpecialMarriageAct1954(UnderSection16).pdf
+TRXHLD_1202890001053991 (1).pdf ->-> /Users\USER\Downloads\pdfTRXHLD_1202890001053991 (1).pdf
+TRXHLD_1202890001053991 (2).pdf ->-> /Users\USER\Downloads\pdfTRXHLD_1202890001053991 (2).pdf
+TRXHLD_1202890001053991.pdf ->-> /Users\USER\Downloads\pdfTRXHLD_1202890001053991.pdf
+Updated-Ecosport-Brochure.pdf ->-> /Users\USER\Downloads\pdfUpdated-Ecosport-Brochure.pdf
+Voda Phon Bill-20170517.pdf ->-> /Users\USER\Downloads\pdfVoda Phon Bill-20170517.pdf
+WBeDistrict_Issuance_of_Plot_Information.pdf ->-> /Users\USER\Downloads\pdfWBeDistrict_Issuance_of_Plot_Information.pdf
+BIOLOGY.pdf ->-> /Users\USER\Downloads\ScienceBIOLOGY.pdf
+Chemistry.pdf ->-> /Users\USER\Downloads\ScienceChemistry.pdf
+English.pdf ->-> /Users\USER\Downloads\ScienceEnglish.pdf
+Hindi.pdf ->-> /Users\USER\Downloads\ScienceHindi.pdf
+Maths.pdf ->-> /Users\USER\Downloads\ScienceMaths.pdf
+PHYSICS -XII 2015-16.pdf ->-> /Users\USER\Downloads\SciencePHYSICS -XII 2015-16.pdf
+1.LONG TYPE OF ANSWER.pdf ->-> /Users\USER\Downloads\Science\physical edn1.LONG TYPE OF ANSWER.pdf
+2.PRACTICE QUESTION PAPERS.pdf ->-> /Users\USER\Downloads\Science\physical edn2.PRACTICE QUESTION PAPERS.pdf
+3.SHORT ANSWER.pdf ->-> /Users\USER\Downloads\Science\physical edn3.SHORT ANSWER.pdf
+4.Very short answer.pdf ->-> /Users\USER\Downloads\Science\physical edn4.Very short answer.pdf
