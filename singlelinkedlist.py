@@ -9,6 +9,8 @@ class LinkedList:
         # its the creation of the linked list, so at first the list will be empty
         self.start= None
     
+    #____________________INSERTION FUNCTIONS_________________________
+    
     def insert_at_beg(self,data): #insertion in the beginning
         new = Node(data)
         new.next = self.start
@@ -63,7 +65,7 @@ class LinkedList:
             new.next=n.next
             n.next=new
 
-    def insertion_at_index(self,data,index):
+    def insertion_at_index(self,data,index): # insertion of data at a specified index
         if index == 1:
            new = Node(data) 
            new.next = self.start
@@ -79,6 +81,42 @@ class LinkedList:
             new = Node(data)
             new.next = n.next
             n.next = new
+
+    #____________________DELETION FUNCTIONS_________________________
+
+    def delete_at_beg(self): # deletion of the element from the beginning
+        if self.start == None:
+            print("No element in the list")
+            return
+        # print("After deletion from begining:")
+        self.start = self.start.next
+
+    def delete_at_end(self): # deletion of the element from the end
+        if self.start == None:
+            print("No element in the list")
+            return
+        n=self.start
+        while n.next.next != None:
+            n=n.next
+        n.next=None
+    
+    def delete_by_data(self,x): # deleting data by value
+        if self.start == None:
+            print("No element in the list")
+            return
+        if self.start.data == x:
+            self.start = self.start.next
+            return
+        n=self.start
+        while n.next != None:
+            if n.next.data == x:
+                break
+            n=n.next
+        if n.next == None:
+            print("Item is not found in the list")
+        else:
+            n.next = n.next.next
+
 
     def traverse(self):
         if self.start == None:
@@ -100,4 +138,9 @@ lnk.insert_after_data(60,40)
 lnk.insert_before_data(50,40)
 lnk.insertion_at_index(70,2)
 lnk.insertion_at_index(45,3)
+lnk.traverse()
+
+# lnk.delete_at_beg()
+# lnk.delete_at_end()
+lnk.delete_by_data(60)
 lnk.traverse()
