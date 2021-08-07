@@ -40,6 +40,28 @@ class LinkedList:
             new=Node(data)
             new.next=n.next
             n.next=new
+    
+    def insert_before_data(self,data,x):
+        if self.start == None:
+            print("List is Empty!!!")
+            return
+        
+        if x == self.start.data:
+            new=Node(data)
+            new.next = self.start
+            self.start = new
+            return
+        n=self.start
+        while n.next != None:
+            if n.next.data == x:
+                break
+            n=n.next
+        if n.next == None:
+            print("The Item is not in the list")
+        else:
+            new=Node(data)
+            new.next=n.next
+            n.next=new
 
     def traverse(self):
         if self.start == None:
@@ -57,5 +79,6 @@ lnk.insert_at_beg(15)
 lnk.insert_at_beg(5)
 lnk.insert_at_end(20)
 lnk.insert_at_end(40)
-lnk.insert_after_data(60,20)
+lnk.insert_after_data(60,40)
+lnk.insert_before_data(50,40)
 lnk.traverse()
