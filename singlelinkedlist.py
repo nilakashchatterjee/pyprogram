@@ -5,16 +5,16 @@ class Node:
 
 class LinkedList:
     
-    def __init__(self):
+    def __init__(self): #the constructor
         # its the creation of the linked list, so at first the list will be empty
         self.start= None
     
-    def insert_at_beg(self,data):
+    def insert_at_beg(self,data): #insertion in the beginning
         new = Node(data)
         new.next = self.start
         self.start= new
     
-    def insert_at_end(self,data):
+    def insert_at_end(self,data): #insertion in the end
         new = Node(data)
         # first it will check whether the list empty or not
         if self.start == None:
@@ -25,23 +25,7 @@ class LinkedList:
             n=n.next
         n.next=new
     
-    def insert_after_data(self,data,x):
-        if self.start==None:
-            print("List is empty!!!")
-            return
-        n=self.start
-        while n != None:
-            if n.data==x:
-                break
-            n=n.next
-        if n == None:
-            print("Item not present in the list")
-        else:
-            new=Node(data)
-            new.next=n.next
-            n.next=new
-    
-    def insert_before_data(self,data,x):
+    def insert_before_data(self,data,x): #insertion before the specific data
         if self.start == None:
             print("List is Empty!!!")
             return
@@ -63,6 +47,39 @@ class LinkedList:
             new.next=n.next
             n.next=new
 
+    def insert_after_data(self,data,x): #insertion after the specific data
+        if self.start==None:
+            print("List is empty!!!")
+            return
+        n=self.start
+        while n != None:
+            if n.data==x:
+                break
+            n=n.next
+        if n == None:
+            print("Item not present in the list")
+        else:
+            new=Node(data)
+            new.next=n.next
+            n.next=new
+
+    def insertion_at_index(self,data,index):
+        if index == 1:
+           new = Node(data) 
+           new.next = self.start
+           self.start = new
+        i=1
+        n=self.start
+        while i< index-1 and n != None:
+            n=n.next
+            i+=1
+        if n == None:
+            print("Index out of bound")
+        else:
+            new = Node(data)
+            new.next = n.next
+            n.next = new
+
     def traverse(self):
         if self.start == None:
             print("The list is empty")
@@ -81,4 +98,6 @@ lnk.insert_at_end(20)
 lnk.insert_at_end(40)
 lnk.insert_after_data(60,40)
 lnk.insert_before_data(50,40)
+lnk.insertion_at_index(70,2)
+lnk.insertion_at_index(45,3)
 lnk.traverse()
